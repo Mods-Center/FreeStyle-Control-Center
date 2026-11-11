@@ -13,26 +13,26 @@
 
 </div>
 
-## ✨ Features
+## Features
 - Add any tile, or change an existing one, to a different tile style
 - Expandable media player
 - Extended power menu (also works on Xiaomi.eu ROMs)
 - 5G tile and Restart SystemUI tile
 - Glass blur for every tile style on HyperOS 4
 
-## 📋 Requirements
+## Requirements
 - HyperOS 3 or HyperOS 4
 - Magisk, KernelSU or APatch
 
-## 📥 Installation
+## Installation
 1. Download the latest zip from [**Releases**](https://github.com/Mods-Center/FreeStyle-Control-Center/releases/latest).
 2. Flash it in Magisk, KernelSU or APatch.
 3. Reboot your device.
 
-## ⚠️ Notes
+## Notes
 - Android 15+: Signature verification must be disabled. Flash [Apk Protection Patch](https://github.com/Mods-Center/Apk-Protection-Patch) or [Apk Signature Verification Patch](https://github.com/Mods-Center/Apk-Signature-Verification-Patch) first, or use the Core Patch LSPosed module.
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8ccfdc9b-da42-4af4-929e-d7b5d4c4a0c5" width="23%" alt="FreeStyle Control Center"/>
   <img src="https://github.com/user-attachments/assets/1b715d3c-9fd9-43c4-a372-2e102e8afa84" width="23%" alt="FreeStyle Control Center"/>
@@ -49,8 +49,8 @@
 
 <div align="center">
 
-Made by **[Kashi](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
+Made by **[🅺🅰🆂🅷🅸](https://t.me/kakashi1v1)** · part of **[Mods Center](https://github.com/Mods-Center)**
 
-[📢 Channel](https://t.me/kashis_cringey_stuffs) · [💬 Support group](https://t.me/bootloop_discussion) · [🐞 Report a bug](https://github.com/Mods-Center/FreeStyle-Control-Center/issues)
+[Channel](https://t.me/kashis_cringey_stuffs) · [Support group](https://t.me/bootloop_discussion) · [Report a bug](https://github.com/Mods-Center/FreeStyle-Control-Center/issues)
 
 </div>
